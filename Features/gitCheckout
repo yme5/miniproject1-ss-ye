@@ -1,5 +1,4 @@
  In Git terms, a "checkout" is the act of switching between different versions of a target entity. 
- The git checkout command operates upon three distinct entities: files, commits, and branches. 
- In addition to the definition of "checkout" the phrase "checking out" is commonly used to imply the act of 
- executing the git checkout command. 
-
+ git checkout allows the act of switching branches. For example, our main branch is separate from the Features branch that was created later on. By using git checkout,
+ it let's us make changes to the main branch without updating the new branch. From the activities we did online, it showed that there a couple of ways to create new
+ branches and also check out at the same time. This shortcut command is $ git checkout -b newbranch. This will create a new branch and also check it out. 
