@@ -4,4 +4,7 @@
 * Yousuf Elkhoga
 # Project Overview
 The purpose of this mini project is to provide insight on how using Git, Docker, automated testing, and continuous integration can help different companies and organizations become more efficient and competitive. 
+
+yousufs **CHANGE** 
+
 $ git log
