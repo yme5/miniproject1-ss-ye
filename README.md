@@ -7,3 +7,4 @@ The purpose of this mini project is to provide insight on how using Git, Docker,
 
 # Quick Links
 - [x] [Changelog](https://github.com/sehrishsaeed/miniproject1-ss-ye/blob/main/Changelog.md)
+- [x] [Definitions] (https://github.com/sehrishsaeed/miniproject1-ss-ye/tree/main/Features)
