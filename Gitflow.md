@@ -9,4 +9,6 @@ The user begins by creating a 5+ branches;
 2.  The Develop branch is where features are pulled from. 
 3.  The Feature branch is where feaures are made
 4.  The Release bracnh where the features are tested in unison. 
-5.  The hotfixes branch is where the emergency bugs are fixed 
+5.  The hotfixes branch is where the emergency bugs are fixed ONLY. Nonemergency bugs are fixed in the release branch. 
+
+When a
