@@ -1,5 +1,5 @@
 # Remote Add Remove
+The git remote command allows users connections to other repositories. They're able to view, delete, or create them. Using git remote will give a list of all the existing remotes. Git remote add can add a new directory. 
 
-The git remote command is one piece of the broader system which is responsible for syncing changes. 
-Records registered through the git remote command are used in conjunction with the git fetch, git push, 
-and git pull commands. 
+
+
