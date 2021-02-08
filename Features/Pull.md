@@ -5,4 +5,4 @@ then updates the local repository to match it. For example, in this project Sehr
 ready for the changes to go live Sehrish recieves a pull request. Once accepted and merged, Yousuf's changes are now added to the main repository. 
 
 
-!(image)[https://github.com/sehrishsaeed/miniproject1-ss-ye/blob/main/Images/Pull.png]
+![image](https://github.com/sehrishsaeed/miniproject1-ss-ye/blob/main/Images/Pull.png)
