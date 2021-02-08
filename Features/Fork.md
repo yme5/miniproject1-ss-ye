@@ -1,0 +1,3 @@
+# Fork
+
+Forking is the act of creating a copy of the new repository that is stored remotely. This is distinct from branching, which creates a copy that is dependent on the original copy. This is also distinct from cloning, which creates a copy that is stored on the local machine. This is important for devolpment, as anyone can fork the project, make and test changes freely without worrying about effecting devolm=pment. For example. Yousuf forked this repository, and what was sehrishsaeed/miniproject1-ss-ye became yme5/miniproject1-ss-ye. Yousuf can now try changing features, without worrying about anything happening to what Sehrish made.  
