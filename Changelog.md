@@ -23,4 +23,19 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). Thi
 - SS - Feature: Added definition of status
 - SS - Feature: Added definition of checkout
 - SS - Feature: Added definition of master
+- YE - Feature: Added definition of GitFlow
+- YE - Feature: Added definition of Repository
+- YE - Feature: Added definition of Branch
+- YE - Feature: Added definition of Fork
+- YE - Feature: Added definition of Clone
+- YE - Feature: Added definition of Merge
+- YE - Feature: Added definition of Commit
+- YE - Feature: Added definition of Sources
+
+### 2/8/2021 ###
+- YE - Fix: Updated Sources 
+- YE - Fix: Updated Gitflow definition
+- YE - Fix: Added images to fork, merge, pull, push, checkout
+- YE - Fix: Added Sources
+
 
