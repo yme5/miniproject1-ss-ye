@@ -7,10 +7,10 @@ Format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/). Thi
     Security in case of vulnerabilities.
     
 ### 2/7/2021 ###
-*SS - Created repository
-*SS - Feature: Added README.md file
-SS - Added project overview, group members, & quick links
-SS - Added image of checkout
+- SS - Created repository
+- SS - Feature: Added README.md file
+- SS - Added project overview, group members, & quick links
+- SS - Added image of checkout
 SS - Added image of merge
 SS - Added image of fork
 SS - Added image of push
