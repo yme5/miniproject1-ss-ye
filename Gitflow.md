@@ -18,3 +18,4 @@ A product in the GitFlow workflow is only worked on in the Develop branch. When 
 GitFlow is best when it is applied to products that are continuosuly improving, and it is genreally good practice to follow this workflow to keep confusion down and productivity high. It is up to the team to maintain the workflow and keep all the branches organized, and in doing so they ensure their overall success. 
 
 
+![image](Images/gitFlow.png)
